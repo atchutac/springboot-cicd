@@ -1,0 +1,9 @@
+target/
+.git/
+.github/
+k8s/
+argocd/
+screenshots/
+*.md
+.idea/
+.vscode/
