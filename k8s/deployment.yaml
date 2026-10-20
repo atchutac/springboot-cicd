@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: purnalti123/springboot-cicd-demo:latest
+          image: purnalti123/springboot-cicd-demo:b051d2c361a8d4726c78b75aa56fce71df1a9294
           ports:
             - containerPort: 8080
           readinessProbe:
